@@ -22,7 +22,7 @@ The basis of open source is Linux, especially Debian OS, but of course other lin
  Kali-linux is another distro, Debian's based, made for network analysis, penetration, and much more.
  
 And now the question ....?
- Can we awake the wild spirit of this horse called WRT-32xx ?
+ Can we awake the wild spirit of this horse called WRT-3200 ACM ?
  
 Finally, the answer is YES..!
  and the trip begins...                    
@@ -53,7 +53,7 @@ Of course we, as older/adults, are still learning..!
 _________________________________________________________________________
 
 With few words: 
- Linksys WRT-32xx + Kali-linux OS = Full Functionality and Software management, Without Limitation on Hardware Capabilities.
+ Linksys WRT-3200 ACM + Kali-linux OS = Full Functionality and Software management, Without Limitation on Hardware Capabilities.
    After conversion became a strange unit, impossible to stop working, forget the sticking or even a bricked hardware board.
     Possibility of double boot. Recommended for easy maintenance. 
      Installation contains: 1st partition the Zeus_WRT, 2nd partition the famous DD-WRT.
