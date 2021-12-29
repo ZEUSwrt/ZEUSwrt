@@ -76,7 +76,7 @@ _________________________________________________________________________
 Three basic Zeus_WRT editions depends, of your needs:
  Zeus_WRT^Family   --> For home use. Especially for Family with kids, or demanding on line Gamers.
   Zeus_WRT^Business --> For commercial/administrative use. For specialized network protocols and/or dedicated applications.
-   Zeus_WRT^Onion    --> For surface-level surfing, or dives to the deep or dark net. Especially for them who they know to dive.
+   Zeus_WRT^Onion    --> For surface-level surfing, or dives to the Onionland. Especially for them who they know to dive.
 _________________________________________________________________________
 
 Contact info : ZeusWrt@gmail.com 
