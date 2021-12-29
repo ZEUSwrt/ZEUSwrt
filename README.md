@@ -64,7 +64,7 @@ _________________________________________________________________________
 All units are brand new, shipment with payment receipt, so that the manufacturer's warranty is valid. .
  Necessary accessories:
   SSD SAMSUNG 860 PRO 256Gb.
-  Usb to serial adapter cmos.
+  Usb to serial adapter ttl.
   E-sata to sata convertor.
 _________________________________________________________________________
 
