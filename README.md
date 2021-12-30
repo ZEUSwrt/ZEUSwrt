@@ -12,7 +12,6 @@ Later, after a successfull entrance to the open source world, Linksys manufactur
  https://openwrt.org/toh/linksys/wrt_ac_series  
 
 It is worth noticing its computing power. When humanity landed on the moon, we did not have as much power.
-
  https://openwrt.org/toh/linksys/wrt3200acm
  https://openwrt.org/toh/linksys/wrt32x
 
