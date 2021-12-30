@@ -13,7 +13,7 @@ Later, after a successfull entrance to the open source world, Linksys manufactur
 
 It is worth noticing its computing power. When humanity landed on the moon, we did not have as much power.
  https://openwrt.org/toh/linksys/wrt3200acm
- or 
+ or the same hardware with newfashion look
  https://openwrt.org/toh/linksys/wrt32x
 
 Of course after testing all kinds of firmware we noticed that the wild horse is hiding and remains a kind good horse. 
